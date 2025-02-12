@@ -3,5 +3,6 @@
 int main()
 {
     float x;
+    x = 3.14;
     printf("%f",x);
 }
