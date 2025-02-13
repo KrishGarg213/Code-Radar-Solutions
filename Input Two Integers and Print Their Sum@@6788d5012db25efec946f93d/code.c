@@ -4,5 +4,5 @@ int main()
 {
     int x,y;
     scanf("%d",&x,&y);
-    printf("Sum: %d",x+y)
+    printf("Sum: %d",x+y);
 }
