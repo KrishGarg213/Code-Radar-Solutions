@@ -3,6 +3,6 @@
 int main()
 {
     char abc[100];
-    scanf("%char",&abc);
-    printf("you entered: %char",abc);
+    scanf("%s",&abc);
+    printf("you entered: %s",abc);
 }
