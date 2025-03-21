@@ -5,5 +5,5 @@ int main()
     float x = 3.14;
     float r;
     scanf("%f",&r);
-    printf("Area:%d",x*r*r)
+    printf("Area:%d",x*r*r);
 }
